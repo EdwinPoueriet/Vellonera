@@ -1,0 +1,7 @@
+C:\Users\epoueriet\source\repos\Vellonera\Vellonera\bin\Debug\Vellonera.exe.config
+C:\Users\epoueriet\source\repos\Vellonera\Vellonera\bin\Debug\Vellonera.exe
+C:\Users\epoueriet\source\repos\Vellonera\Vellonera\bin\Debug\Vellonera.pdb
+C:\Users\epoueriet\source\repos\Vellonera\Vellonera\obj\Debug\Vellonera.csprojAssemblyReference.cache
+C:\Users\epoueriet\source\repos\Vellonera\Vellonera\obj\Debug\Vellonera.csproj.CoreCompileInputs.cache
+C:\Users\epoueriet\source\repos\Vellonera\Vellonera\obj\Debug\Vellonera.exe
+C:\Users\epoueriet\source\repos\Vellonera\Vellonera\obj\Debug\Vellonera.pdb
